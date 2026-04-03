@@ -24,7 +24,7 @@ Soy un desarrollador apasionado por la **ciberseguridad y la nube**, basado en A
 Auditor de Security Groups en AWS inspirado en Palo Alto Networks. Detecta reglas peligrosas, puertos críticos expuestos a internet y genera reportes JSON clasificados por severidad.
 - `Python` `boto3` `asyncio` `LocalStack` `Docker`
 
-### [Secure LLM Gateway](https://github.com/Luisrojas1811/cloud-network-sentinel)
+### [Secure LLM Gateway](https://github.com/Luisrojas1811/Secure-LLM-Gateway)
 Proxy de seguridad que intercepta prompts de IA y detecta fuga de datos sensibles (PII) antes de enviarlos al modelo. Motor DLP con validación Luhn para tarjetas de crédito.
 - `Python` `FastAPI` `Pydantic` `Regex` `pytest`
 
