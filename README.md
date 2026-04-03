@@ -1,6 +1,6 @@
 # Hola, soy Luis Rojas 👋
 
-Soy un desarrollador apasionado por la **ciberseguridad y la nube**, basado en Argentina 🇦🇷. Estoy construyendo mi camino hacia roles de Cloud Security, DevSecOps y Ciberseguridad.
+Soy un desarrollador apasionado por la **ciberseguridad y la nube**, actualmente en Argentina 🇦🇷. Estoy construyendo mi camino hacia roles de Cloud Security, DevSecOps y Ciberseguridad.
 
 ## 🚀 Sobre mí
 
@@ -30,9 +30,7 @@ Proxy de seguridad que intercepta prompts de IA y detecta fuga de datos sensible
 
 ## 📊 Estadísticas
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisrojas1811&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisrojas1811&layout=compact&theme=dark&hide_border=true)
+![Luis's GitHub stats](https://streak-stats.demolab.com?user=Luisrojas1811&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ## 📫 Contacto
 
